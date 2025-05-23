@@ -15,7 +15,11 @@ To write a C program to find frequency of a character in the given input.
 
 ## Program:
 ```
-
+/*
+C program to find frequency of a character in the given input.
+Developed by: Mukilan B
+RegisterNumber:  212222060156
+*/
 #include<stdio.h> 
 #include<string.h> 
 int main()
